@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JCMura
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in bioinformatics
+- 🌱 I’m currently learning Python and R
+- 💞️ I’m looking to collaborate on bioinformatics related projects.
 - 📫 How to reach me justincolemurakawa@gmail.com
 
 <!---
