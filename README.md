@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @JCMura
 - 👀 I’m interested in bioinformatics
-- 🌱 I’m currently learning Python and R
+- Python, R, SQL, Unix, Bash
+- JupyterNotebook and VScode
 - 💞️ I’m looking to collaborate on bioinformatics related projects.
 - 📫 How to reach me justincolemurakawa@gmail.com
 
